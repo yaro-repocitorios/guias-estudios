@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>Guias de Historia</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="guias-estudios/all.min.css">
+</head>
+<body class="bg-teal-100">
+    <div class="max-w-4xl mx-auto bg-white shadow-lg">
+        <div class="bg-green-500 text-white text-center py-8">
+            <h1 class="text-4xl font-bold">GUIA DE ESTUDIOS</h1>
+            <p class="text-lg mt-2">RUPEL2D</p>
+        </div>
+        <div class="p-4">
+            <div class="flex justify-between items-center mb-4">
+                <ul class="flex space-x-4">
+                    <li><a href="guias-estudios/index.htmml" class="text-gray-700">Inicio</a></li>
+                    <li class="border-b-2 border-gray-400"><a href="#" class="text-gray-700">Historia</a></li>
+                    <li><a href="#" class="text-gray-700">Matematicas</a></li>
+                    <li><a href="#" class="text-gray-700">Etica</a></li>
+                    <li><a href="#" class="text-gray-700">Metodologia</a></li>
+                    <li><a href="#" class="text-gray-700">Biologia</a></li>
+                    <li><a href="#" class="text-gray-700">Matematicas</a></li>
+                    <li><a href="#" class="text-gray-700">Fisica</a></li>
+                    <li><a href="#" class="text-gray-700">Fisica</a></li>
+                    <li><a href="#" class="text-gray-700">Contactame</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2 class="text-xl font-bold mb-2">Historia</h2>
+                <p class="mb-2">
+                    En esta página podrás encontrar información relacionada con biología, 
+                    conservación del ambiente y cambio climático. El objetivo de este sitio es 
+                    proporcionarte información confiable que pueda servirte como insumo para actividades 
+                    escolares o para favorecer tu conocimiento en general.
+                </p>
+                <p class="mb-2">
+                    Links:
+                    <a href="#" class="text-blue-500">Twitter</a>, 
+                    <a href="#" class="text-blue-500">Facebook</a> e 
+                    <a href="#" class="text-blue-500">Instagram</a>.
+                </p>
+                <p class="mt-4">
+                    Dashayaro
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
